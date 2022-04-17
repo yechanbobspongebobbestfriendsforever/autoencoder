@@ -169,3 +169,5 @@ if __name__ == "__main__":
                              )
     
     autoencoder.summary()
+
+# need to work on combining encoder and decoder
